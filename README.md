@@ -4,6 +4,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
+## URL
+https://jolly-bush-093c1c800.5.azurestaticapps.net/
+
 ## Project setup
 
 ```bash
